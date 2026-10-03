@@ -1,0 +1,6 @@
+{
+  "name": "Flower & Member Management System",
+  "description": "ระบบจัดการสมาชิกและดอกไม้ตามระดับสีพื้น (ม่วง/ส้ม/แดง) เชื่อมต่อ Google Drive และดูความสัมพันธ์สมาชิก-ดอกไม้แบบเรียลไทม์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
